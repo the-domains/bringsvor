@@ -1,7 +1,7 @@
 name: Bringsvor
 favicon: null
-layout_spectrum: 0.4723769680131227
-typography_spectrum: 0.5657291228417307
+layout_spectrum: 0.49841
+typography_spectrum: 0.26898
 title: The home of Audun Bringsvor
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#d1d4e3'
+    - '#8b95ae'
+    - '#513728'
+    - '#835f49'
+    - '#a27e68'
   brandStrength: 0.5260384229477495
   lightness: 0.3312296820804477
   saturation: 0.5760374886449426
